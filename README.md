@@ -1,6 +1,6 @@
-# sushi_app
+# Sushi_app
 
-A new Flutter project.
+An online application for ordering sushi.
 
 ## Getting Started
 
